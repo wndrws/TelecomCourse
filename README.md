@@ -15,3 +15,11 @@
 2. [TCP client linux](https://github.com/vilegzhanina/TelecomCourse)
 3. [UDP server linux](https://github.com/vilegzhanina/TelecomCourse)
 4. [UDP client windows](https://github.com/vilegzhanina/TelecomCourse)
+
+## Ольга Горемыкина
+Платёжная система
+
+1. TCP server linux
+2. TCP client windows
+3. UDP server windows
+4. UDP client linux
