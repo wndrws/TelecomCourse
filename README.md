@@ -23,3 +23,10 @@
 2. TCP client windows
 3. UDP server windows
 4. UDP client linux
+
+## Смирнов Сергей
+[Электронный магазин](https://github.com/Sergei-Smirnov-95/MyTelecom)
+1. TCP server linux
+2. TCP client windows
+3. UDP server windows
+4. UDP client linux
